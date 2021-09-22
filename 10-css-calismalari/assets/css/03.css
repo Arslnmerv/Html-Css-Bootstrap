@@ -1,0 +1,15 @@
+.menu {
+  background-color: rgba(211, 211, 211, 0.781);
+  text-align: center;
+  width: 300px;
+}
+
+.aktif a {
+  background-color: rgba(128, 128, 128, 0.103);
+  color: white;
+}
+
+.aktif {
+  background-color: rgba(128, 128, 128, 0.103);
+  color: white;
+}
